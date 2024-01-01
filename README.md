@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kappa-five-97.vercel.app/](https://portfolio-kappa-five-97.vercel.app/)
+- 👨‍💻 You can see my all project in here [https://portfolio-kappa-five-97.vercel.app/](https://portfolio-kappa-five-97.vercel.app/)
 
 - 📝 I regularly write articles on [https://portfolio-kappa-five-97.vercel.app/](https://portfolio-kappa-five-97.vercel.app/)
 
