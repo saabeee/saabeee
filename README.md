@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 You can see my all project in here [https://portfolio-kappa-five-97.vercel.app/](https://portfolio-kappa-five-97.vercel.app/)
+- 👨‍💻 You can see my all project in here
 
-- 📝 I regularly write articles on [https://portfolio-kappa-five-97.vercel.app/](https://portfolio-kappa-five-97.vercel.app/)
+- 📝 I regularly write articles on (londing)
 
 - 💬 Ask me about **python , django and Rest api**
 
 - 📫 How to reach me **ppzabithmohammed@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-kappa-five-97.vercel.app/](https://portfolio-kappa-five-97.vercel.app/)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
