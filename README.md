@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 You can see my all project in here (https://www.linkedin.com/in/mohammed-zabith-pp-1542b82a1/)
+- 👨‍💻 You can see my all project in here [website](https://portfolio-fawn-eta-32.vercel.app/)
 
-- 📝 I regularly write articles on (https://www.linkedin.com/in/mohammed-zabith-pp-1542b82a1/)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **python , django and Rest api**
 
 - 📫 How to reach me **ppzabithmohammed@gmail.com**
 
-- 📄 Know about my experiences (https://www.linkedin.com/in/mohammed-zabith-pp-1542b82a1/)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
