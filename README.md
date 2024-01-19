@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 You can see my all project in here
+- 👨‍💻 You can see my all project in here (loading)
 
-- 📝 I regularly write articles on (londing)
+- 📝 I regularly write articles on (loading )
 
 - 💬 Ask me about **python , django and Rest api**
 
 - 📫 How to reach me **ppzabithmohammed@gmail.com**
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences (loading)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
